@@ -1,0 +1,236 @@
+{
+  "Chest": [
+    {
+      "exercise": "Barbell Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Incline Barbell Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Dumbell Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Incline Dumbell Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Push Ups",
+      "sets": 2,
+      "reps": 20,
+      "weight": ""
+    },
+    {
+      "exercise": "Dumbell Fly",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Incline Dumbell Fly",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    }
+  ],
+  "Back": [
+    {
+      "exercise": "Lat Pull Downs",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Dumbell Rows",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Cable Rows",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Machine Rows",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Deadlifts",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Barbell Rows",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    }
+  ],
+  "Legs": [
+    {
+      "exercise": "Front Squats",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Back Squats",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Leg Press",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Calf Raises",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Split Squats",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Goblet Squats",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Hamstring Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Lunges",
+      "sets": 4,
+      "reps": 10,
+      "weight": ""
+    },
+    {
+      "exercise": "Hip Thrusts",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Leg Extensions",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Hip Abductions",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    }
+  ],
+  "Forearms": [
+    {
+      "exercise": "Wrist Curls",
+      "sets": 5,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Hammer Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Reverse Grip Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    }
+  ],
+  "Biceps": [
+    {
+      "exercise": "Seated Hammer Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Preacher Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Bar Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Incline Dumbell Bicep Curl",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Bicep Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Dumbell Incline Inner Biceps Curl",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Hammer Curls",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    }
+  ],
+  "Triceps": [
+    {
+      "exercise": "Cable Pushdown",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Barbell Close Grip Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    },
+    {
+      "exercise": "Overhead Tricep Extensions",
+      "sets": 4,
+      "reps": 10,
+      "weight": "60-80% of PR"
+    }
+  ]
+}
